@@ -30,7 +30,7 @@ To run the game locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bhavith88/Tic-Tac-Toe
+   git clone https://github.com/Bhavith88/Tic-Tac-Toe.git
    ```
 2. Navigate to the project directory:
    ```bash
