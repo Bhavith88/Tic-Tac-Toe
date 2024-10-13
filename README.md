@@ -42,6 +42,6 @@ To run the game locally:
 
 This project is open source and available under the MIT License.
 
----
+## Enjoy!
 
-Thank you for checking out my Simple Tic Tac Toe Game! Feel free to dive into the code and make your own modifications. Enjoy coding!
+Have fun playing and learning!
