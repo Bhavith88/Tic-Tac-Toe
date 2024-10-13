@@ -1,7 +1,5 @@
 # Simple Tic Tac Toe Game
 
-## Overview
-
 Welcome to the Simple Tic Tac Toe Game! This project was created for fun and to explore the basics of JavaScript while enhancing my skills in HTML and CSS. It’s a classic game that’s easy to play and fun to code!
 
 ## Features
